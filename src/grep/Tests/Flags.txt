@@ -1,0 +1,1410 @@
+-n v ./Tests/Test_file_1
+-n w ./Tests/Test_file_1
+-n Vivo ./Tests/Test_file_1
+-n v ./Tests/Test_file_2
+-n w ./Tests/Test_file_2
+-n Vivo ./Tests/Test_file_2
+-n v ./Tests/Test_file_3
+-n w ./Tests/Test_file_3
+-n Vivo ./Tests/Test_file_3
+-v v ./Tests/Test_file_1
+-v w ./Tests/Test_file_1
+-v Vivo ./Tests/Test_file_1
+-v v ./Tests/Test_file_2
+-v w ./Tests/Test_file_2
+-v Vivo ./Tests/Test_file_2
+-v v ./Tests/Test_file_3
+-v w ./Tests/Test_file_3
+-v Vivo ./Tests/Test_file_3
+-c v ./Tests/Test_file_1
+-c w ./Tests/Test_file_1
+-c Vivo ./Tests/Test_file_1
+-c v ./Tests/Test_file_2
+-c w ./Tests/Test_file_2
+-c Vivo ./Tests/Test_file_2
+-c v ./Tests/Test_file_3
+-c w ./Tests/Test_file_3
+-c Vivo ./Tests/Test_file_3
+-l v ./Tests/Test_file_1
+-l w ./Tests/Test_file_1
+-l Vivo ./Tests/Test_file_1
+-l v ./Tests/Test_file_2
+-l w ./Tests/Test_file_2
+-l Vivo ./Tests/Test_file_2
+-l v ./Tests/Test_file_3
+-l w ./Tests/Test_file_3
+-l Vivo ./Tests/Test_file_3
+-i v ./Tests/Test_file_1
+-i w ./Tests/Test_file_1
+-i Vivo ./Tests/Test_file_1
+-i v ./Tests/Test_file_2
+-i w ./Tests/Test_file_2
+-i Vivo ./Tests/Test_file_2
+-i v ./Tests/Test_file_3
+-i w ./Tests/Test_file_3
+-i Vivo ./Tests/Test_file_3
+-h v ./Tests/Test_file_1
+-h w ./Tests/Test_file_1
+-h Vivo ./Tests/Test_file_1
+-h v ./Tests/Test_file_2
+-h w ./Tests/Test_file_2
+-h Vivo ./Tests/Test_file_2
+-h v ./Tests/Test_file_3
+-h w ./Tests/Test_file_3
+-h Vivo ./Tests/Test_file_3
+-s v ./Tests/Test_file_1
+-s w ./Tests/Test_file_1
+-s Vivo ./Tests/Test_file_1
+-s v ./Tests/Test_file_2
+-s w ./Tests/Test_file_2
+-s Vivo ./Tests/Test_file_2
+-s v ./Tests/Test_file_3
+-s w ./Tests/Test_file_3
+-s Vivo ./Tests/Test_file_3
+-o v ./Tests/Test_file_1
+-o w ./Tests/Test_file_1
+-o Vivo ./Tests/Test_file_1
+-o v ./Tests/Test_file_2
+-o w ./Tests/Test_file_2
+-o Vivo ./Tests/Test_file_2
+-o v ./Tests/Test_file_3
+-o w ./Tests/Test_file_3
+-o Vivo ./Tests/Test_file_3
+-n -v v ./Tests/Test_file_1
+-n -v w ./Tests/Test_file_1
+-n -v Vivo ./Tests/Test_file_1
+-n -v v ./Tests/Test_file_2
+-n -v w ./Tests/Test_file_2
+-n -v Vivo ./Tests/Test_file_2
+-n -v v ./Tests/Test_file_3
+-n -v w ./Tests/Test_file_3
+-n -v Vivo ./Tests/Test_file_3
+-n -c v ./Tests/Test_file_1
+-n -c w ./Tests/Test_file_1
+-n -c Vivo ./Tests/Test_file_1
+-n -c v ./Tests/Test_file_2
+-n -c w ./Tests/Test_file_2
+-n -c Vivo ./Tests/Test_file_2
+-n -c v ./Tests/Test_file_3
+-n -c w ./Tests/Test_file_3
+-n -c Vivo ./Tests/Test_file_3
+-n -l v ./Tests/Test_file_1
+-n -l w ./Tests/Test_file_1
+-n -l Vivo ./Tests/Test_file_1
+-n -l v ./Tests/Test_file_2
+-n -l w ./Tests/Test_file_2
+-n -l Vivo ./Tests/Test_file_2
+-n -l v ./Tests/Test_file_3
+-n -l w ./Tests/Test_file_3
+-n -l Vivo ./Tests/Test_file_3
+-n -i v ./Tests/Test_file_1
+-n -i w ./Tests/Test_file_1
+-n -i Vivo ./Tests/Test_file_1
+-n -i v ./Tests/Test_file_2
+-n -i w ./Tests/Test_file_2
+-n -i Vivo ./Tests/Test_file_2
+-n -i v ./Tests/Test_file_3
+-n -i w ./Tests/Test_file_3
+-n -i Vivo ./Tests/Test_file_3
+-n -h v ./Tests/Test_file_1
+-n -h w ./Tests/Test_file_1
+-n -h Vivo ./Tests/Test_file_1
+-n -h v ./Tests/Test_file_2
+-n -h w ./Tests/Test_file_2
+-n -h Vivo ./Tests/Test_file_2
+-n -h v ./Tests/Test_file_3
+-n -h w ./Tests/Test_file_3
+-n -h Vivo ./Tests/Test_file_3
+-n -s v ./Tests/Test_file_1
+-n -s w ./Tests/Test_file_1
+-n -s Vivo ./Tests/Test_file_1
+-n -s v ./Tests/Test_file_2
+-n -s w ./Tests/Test_file_2
+-n -s Vivo ./Tests/Test_file_2
+-n -s v ./Tests/Test_file_3
+-n -s w ./Tests/Test_file_3
+-n -s Vivo ./Tests/Test_file_3
+-n -o v ./Tests/Test_file_1
+-n -o w ./Tests/Test_file_1
+-n -o Vivo ./Tests/Test_file_1
+-n -o v ./Tests/Test_file_2
+-n -o w ./Tests/Test_file_2
+-n -o Vivo ./Tests/Test_file_2
+-n -o v ./Tests/Test_file_3
+-n -o w ./Tests/Test_file_3
+-n -o Vivo ./Tests/Test_file_3
+-v -c v ./Tests/Test_file_1
+-v -c w ./Tests/Test_file_1
+-v -c Vivo ./Tests/Test_file_1
+-v -c v ./Tests/Test_file_2
+-v -c w ./Tests/Test_file_2
+-v -c Vivo ./Tests/Test_file_2
+-v -c v ./Tests/Test_file_3
+-v -c w ./Tests/Test_file_3
+-v -c Vivo ./Tests/Test_file_3
+-v -l v ./Tests/Test_file_1
+-v -l w ./Tests/Test_file_1
+-v -l Vivo ./Tests/Test_file_1
+-v -l v ./Tests/Test_file_2
+-v -l w ./Tests/Test_file_2
+-v -l Vivo ./Tests/Test_file_2
+-v -l v ./Tests/Test_file_3
+-v -l w ./Tests/Test_file_3
+-v -l Vivo ./Tests/Test_file_3
+-v -i v ./Tests/Test_file_1
+-v -i w ./Tests/Test_file_1
+-v -i Vivo ./Tests/Test_file_1
+-v -i v ./Tests/Test_file_2
+-v -i w ./Tests/Test_file_2
+-v -i Vivo ./Tests/Test_file_2
+-v -i v ./Tests/Test_file_3
+-v -i w ./Tests/Test_file_3
+-v -i Vivo ./Tests/Test_file_3
+-v -h v ./Tests/Test_file_1
+-v -h w ./Tests/Test_file_1
+-v -h Vivo ./Tests/Test_file_1
+-v -h v ./Tests/Test_file_2
+-v -h w ./Tests/Test_file_2
+-v -h Vivo ./Tests/Test_file_2
+-v -h v ./Tests/Test_file_3
+-v -h w ./Tests/Test_file_3
+-v -h Vivo ./Tests/Test_file_3
+-v -s v ./Tests/Test_file_1
+-v -s w ./Tests/Test_file_1
+-v -s Vivo ./Tests/Test_file_1
+-v -s v ./Tests/Test_file_2
+-v -s w ./Tests/Test_file_2
+-v -s Vivo ./Tests/Test_file_2
+-v -s v ./Tests/Test_file_3
+-v -s w ./Tests/Test_file_3
+-v -s Vivo ./Tests/Test_file_3
+-v -o v ./Tests/Test_file_1
+-v -o w ./Tests/Test_file_1
+-v -o Vivo ./Tests/Test_file_1
+-v -o v ./Tests/Test_file_2
+-v -o w ./Tests/Test_file_2
+-v -o Vivo ./Tests/Test_file_2
+-v -o v ./Tests/Test_file_3
+-v -o w ./Tests/Test_file_3
+-v -o Vivo ./Tests/Test_file_3
+-c -l v ./Tests/Test_file_1
+-c -l w ./Tests/Test_file_1
+-c -l Vivo ./Tests/Test_file_1
+-c -l v ./Tests/Test_file_2
+-c -l w ./Tests/Test_file_2
+-c -l Vivo ./Tests/Test_file_2
+-c -l v ./Tests/Test_file_3
+-c -l w ./Tests/Test_file_3
+-c -l Vivo ./Tests/Test_file_3
+-c -i v ./Tests/Test_file_1
+-c -i w ./Tests/Test_file_1
+-c -i Vivo ./Tests/Test_file_1
+-c -i v ./Tests/Test_file_2
+-c -i w ./Tests/Test_file_2
+-c -i Vivo ./Tests/Test_file_2
+-c -i v ./Tests/Test_file_3
+-c -i w ./Tests/Test_file_3
+-c -i Vivo ./Tests/Test_file_3
+-c -h v ./Tests/Test_file_1
+-c -h w ./Tests/Test_file_1
+-c -h Vivo ./Tests/Test_file_1
+-c -h v ./Tests/Test_file_2
+-c -h w ./Tests/Test_file_2
+-c -h Vivo ./Tests/Test_file_2
+-c -h v ./Tests/Test_file_3
+-c -h w ./Tests/Test_file_3
+-c -h Vivo ./Tests/Test_file_3
+-c -s v ./Tests/Test_file_1
+-c -s w ./Tests/Test_file_1
+-c -s Vivo ./Tests/Test_file_1
+-c -s v ./Tests/Test_file_2
+-c -s w ./Tests/Test_file_2
+-c -s Vivo ./Tests/Test_file_2
+-c -s v ./Tests/Test_file_3
+-c -s w ./Tests/Test_file_3
+-c -s Vivo ./Tests/Test_file_3
+-c -o v ./Tests/Test_file_1
+-c -o w ./Tests/Test_file_1
+-c -o Vivo ./Tests/Test_file_1
+-c -o v ./Tests/Test_file_2
+-c -o w ./Tests/Test_file_2
+-c -o Vivo ./Tests/Test_file_2
+-c -o v ./Tests/Test_file_3
+-c -o w ./Tests/Test_file_3
+-c -o Vivo ./Tests/Test_file_3
+-l -i v ./Tests/Test_file_1
+-l -i w ./Tests/Test_file_1
+-l -i Vivo ./Tests/Test_file_1
+-l -i v ./Tests/Test_file_2
+-l -i w ./Tests/Test_file_2
+-l -i Vivo ./Tests/Test_file_2
+-l -i v ./Tests/Test_file_3
+-l -i w ./Tests/Test_file_3
+-l -i Vivo ./Tests/Test_file_3
+-l -h v ./Tests/Test_file_1
+-l -h w ./Tests/Test_file_1
+-l -h Vivo ./Tests/Test_file_1
+-l -h v ./Tests/Test_file_2
+-l -h w ./Tests/Test_file_2
+-l -h Vivo ./Tests/Test_file_2
+-l -h v ./Tests/Test_file_3
+-l -h w ./Tests/Test_file_3
+-l -h Vivo ./Tests/Test_file_3
+-l -s v ./Tests/Test_file_1
+-l -s w ./Tests/Test_file_1
+-l -s Vivo ./Tests/Test_file_1
+-l -s v ./Tests/Test_file_2
+-l -s w ./Tests/Test_file_2
+-l -s Vivo ./Tests/Test_file_2
+-l -s v ./Tests/Test_file_3
+-l -s w ./Tests/Test_file_3
+-l -s Vivo ./Tests/Test_file_3
+-l -o v ./Tests/Test_file_1
+-l -o w ./Tests/Test_file_1
+-l -o Vivo ./Tests/Test_file_1
+-l -o v ./Tests/Test_file_2
+-l -o w ./Tests/Test_file_2
+-l -o Vivo ./Tests/Test_file_2
+-l -o v ./Tests/Test_file_3
+-l -o w ./Tests/Test_file_3
+-l -o Vivo ./Tests/Test_file_3
+-i -h v ./Tests/Test_file_1
+-i -h w ./Tests/Test_file_1
+-i -h Vivo ./Tests/Test_file_1
+-i -h v ./Tests/Test_file_2
+-i -h w ./Tests/Test_file_2
+-i -h Vivo ./Tests/Test_file_2
+-i -h v ./Tests/Test_file_3
+-i -h w ./Tests/Test_file_3
+-i -h Vivo ./Tests/Test_file_3
+-i -s v ./Tests/Test_file_1
+-i -s w ./Tests/Test_file_1
+-i -s Vivo ./Tests/Test_file_1
+-i -s v ./Tests/Test_file_2
+-i -s w ./Tests/Test_file_2
+-i -s Vivo ./Tests/Test_file_2
+-i -s v ./Tests/Test_file_3
+-i -s w ./Tests/Test_file_3
+-i -s Vivo ./Tests/Test_file_3
+-i -o v ./Tests/Test_file_1
+-i -o w ./Tests/Test_file_1
+-i -o Vivo ./Tests/Test_file_1
+-i -o v ./Tests/Test_file_2
+-i -o w ./Tests/Test_file_2
+-i -o Vivo ./Tests/Test_file_2
+-i -o v ./Tests/Test_file_3
+-i -o w ./Tests/Test_file_3
+-i -o Vivo ./Tests/Test_file_3
+-h -s v ./Tests/Test_file_1
+-h -s w ./Tests/Test_file_1
+-h -s Vivo ./Tests/Test_file_1
+-h -s v ./Tests/Test_file_2
+-h -s w ./Tests/Test_file_2
+-h -s Vivo ./Tests/Test_file_2
+-h -s v ./Tests/Test_file_3
+-h -s w ./Tests/Test_file_3
+-h -s Vivo ./Tests/Test_file_3
+-h -o v ./Tests/Test_file_1
+-h -o w ./Tests/Test_file_1
+-h -o Vivo ./Tests/Test_file_1
+-h -o v ./Tests/Test_file_2
+-h -o w ./Tests/Test_file_2
+-h -o Vivo ./Tests/Test_file_2
+-h -o v ./Tests/Test_file_3
+-h -o w ./Tests/Test_file_3
+-h -o Vivo ./Tests/Test_file_3
+-s -o v ./Tests/Test_file_1
+-s -o w ./Tests/Test_file_1
+-s -o Vivo ./Tests/Test_file_1
+-s -o v ./Tests/Test_file_2
+-s -o w ./Tests/Test_file_2
+-s -o Vivo ./Tests/Test_file_2
+-s -o v ./Tests/Test_file_3
+-s -o w ./Tests/Test_file_3
+-s -o Vivo ./Tests/Test_file_3
+-n -v v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -v w ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -v Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -v v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -v w ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -v Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -v v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v w ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c w ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c w ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c w ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l w ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l w ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l w ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -i w ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -i Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -i v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -i w ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -i Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -i v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i w ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -h w ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -h Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -h w ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -h Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h w ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -s w ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -s Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -s w ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -s Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -s w ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -s Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -o w ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -o w ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -o w ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -o Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -c v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -c w ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -c Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -c v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -c w ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -c Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -c v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -c w ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -c Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -l v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -l w ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -l Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -l v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -l w ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -l Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -l v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -l w ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -l Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -i v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -i w ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -i Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -i v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -i w ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -i Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -i v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -i w ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -i Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -h w ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -h Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -h w ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -h Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -h w ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -h Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -s w ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -s Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -s w ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -s Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -s w ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -s Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -o w ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -o w ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -o w ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -o Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l w ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l w ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l w ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -i w ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -i Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -i v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -i w ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -i Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -i v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i w ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -h w ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -h Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -h w ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -h Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h w ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -s w ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -s Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -s w ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -s Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -s w ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -s Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -o w ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -o w ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -o w ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -o Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -i w ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -i Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -i v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -i w ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -i Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -i v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i w ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -h w ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -h Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -h w ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -h Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h w ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -s w ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -s Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -s w ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -s Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -s w ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -s Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -o w ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -o w ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -o w ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -o Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -h w ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -h Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -h w ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -h Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h w ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -s w ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -s Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -s w ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -s Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -s w ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -s Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -o w ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -o w ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -o w ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -o Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-h -s w ./Tests/Test_file_1 ./Tests/Test_file_2
+-h -s Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-h -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-h -s w ./Tests/Test_file_1 ./Tests/Test_file_3
+-h -s Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-h -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -s w ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -s Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-h -o w ./Tests/Test_file_1 ./Tests/Test_file_2
+-h -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-h -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-h -o w ./Tests/Test_file_1 ./Tests/Test_file_3
+-h -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-h -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -o w ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -o Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-s -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-s -o w ./Tests/Test_file_1 ./Tests/Test_file_2
+-s -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_2
+-s -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-s -o w ./Tests/Test_file_1 ./Tests/Test_file_3
+-s -o Vivo ./Tests/Test_file_1 ./Tests/Test_file_3
+-s -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-s -o w ./Tests/Test_file_2 ./Tests/Test_file_3
+-s -o Vivo ./Tests/Test_file_2 ./Tests/Test_file_3
+-n v ./Tests/Test_file_1
+-n -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-n -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1
+-n v ./Tests/Test_file_2
+-n -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-n -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-n v ./Tests/Test_file_3
+-n -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-n -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_3
+-v v ./Tests/Test_file_1
+-v -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-v -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1
+-v v ./Tests/Test_file_2
+-v -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-v -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-v v ./Tests/Test_file_3
+-v -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-v -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_3
+-c v ./Tests/Test_file_1
+-c -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-c -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1
+-c v ./Tests/Test_file_2
+-c -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-c -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-c v ./Tests/Test_file_3
+-c -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-c -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_3
+-l v ./Tests/Test_file_1
+-l -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1
+-l v ./Tests/Test_file_2
+-l -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-l v ./Tests/Test_file_3
+-l -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_3
+-i v ./Tests/Test_file_1
+-i -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1
+-i v ./Tests/Test_file_2
+-i -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-i v ./Tests/Test_file_3
+-i -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-h v ./Tests/Test_file_1
+-h -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1
+-h v ./Tests/Test_file_2
+-h -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-h v ./Tests/Test_file_3
+-h -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_3
+-s v ./Tests/Test_file_1
+-s -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-s v ./Tests/Test_file_2
+-s -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-s -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-o v ./Tests/Test_file_1
+-o -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-o v ./Tests/Test_file_2
+-o -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-o v ./Tests/Test_file_3
+-o -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-n -v v ./Tests/Test_file_1
+-n -v v ./Tests/Test_file_2
+-n -v v ./Tests/Test_file_3
+-n -c v ./Tests/Test_file_1
+-n -c -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-n -c v ./Tests/Test_file_2
+-n -c -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-n -c v ./Tests/Test_file_3
+-n -c -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-n -l v ./Tests/Test_file_1
+-n -l -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-n -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1
+-n -l v ./Tests/Test_file_2
+-n -l -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-n -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-n -l v ./Tests/Test_file_3
+-n -l -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-n -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_3
+-n -i v ./Tests/Test_file_1
+-n -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-n -i v ./Tests/Test_file_2
+-n -i -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-n -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-n -i v ./Tests/Test_file_3
+-n -i -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-n -h v ./Tests/Test_file_1
+-n -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-n -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1
+-n -h v ./Tests/Test_file_2
+-n -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-n -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-n -h v ./Tests/Test_file_3
+-n -h -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-n -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_3
+-n -s v ./Tests/Test_file_1
+-n -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-n -s v ./Tests/Test_file_2
+-n -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-n -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-n -s v ./Tests/Test_file_3
+-n -s -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-n -o v ./Tests/Test_file_1
+-n -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-n -o v ./Tests/Test_file_2
+-n -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-n -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-n -o v ./Tests/Test_file_3
+-n -o -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-v -c v ./Tests/Test_file_1
+-v -c v ./Tests/Test_file_2
+-v -c v ./Tests/Test_file_3
+-v -l v ./Tests/Test_file_1
+-v -l v ./Tests/Test_file_2
+-v -l v ./Tests/Test_file_3
+-v -i v ./Tests/Test_file_1
+-v -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-v -i v ./Tests/Test_file_2
+-v -i -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-v -i v ./Tests/Test_file_3
+-v -i -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-v -h v ./Tests/Test_file_1
+-v -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-v -h v ./Tests/Test_file_2
+-v -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-v -h v ./Tests/Test_file_3
+-v -h -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-v -s v ./Tests/Test_file_1
+-v -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-v -s v ./Tests/Test_file_2
+-v -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-v -s v ./Tests/Test_file_3
+-v -s -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-v -o v ./Tests/Test_file_1
+-v -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-v -o v ./Tests/Test_file_2
+-v -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-v -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-v -o v ./Tests/Test_file_3
+-v -o -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-c -l v ./Tests/Test_file_1
+-c -l -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-c -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1
+-c -l v ./Tests/Test_file_2
+-c -l -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-c -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-c -l v ./Tests/Test_file_3
+-c -l -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-c -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_3
+-c -i v ./Tests/Test_file_1
+-c -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-c -i v ./Tests/Test_file_2
+-c -i -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-c -i v ./Tests/Test_file_3
+-c -i -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-c -h v ./Tests/Test_file_1
+-c -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-c -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1
+-c -h v ./Tests/Test_file_2
+-c -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-c -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-c -h v ./Tests/Test_file_3
+-c -h -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-c -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_3
+-c -s v ./Tests/Test_file_1
+-c -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-c -s v ./Tests/Test_file_2
+-c -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-c -s v ./Tests/Test_file_3
+-c -s -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-c -o v ./Tests/Test_file_1
+-c -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-c -o v ./Tests/Test_file_2
+-c -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-c -o v ./Tests/Test_file_3
+-c -o -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-l -i v ./Tests/Test_file_1
+-l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-l -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1
+-l -i v ./Tests/Test_file_2
+-l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-l -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-l -i v ./Tests/Test_file_3
+-l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-l -h v ./Tests/Test_file_1
+-l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1
+-l -h v ./Tests/Test_file_2
+-l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-l -h v ./Tests/Test_file_3
+-l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_3
+-l -s v ./Tests/Test_file_1
+-l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-l -s v ./Tests/Test_file_2
+-l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-l -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-l -s v ./Tests/Test_file_3
+-l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-l -o v ./Tests/Test_file_1
+-l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-l -o v ./Tests/Test_file_2
+-l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-l -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-l -o v ./Tests/Test_file_3
+-l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-i -h v ./Tests/Test_file_1
+-i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1
+-i -h v ./Tests/Test_file_2
+-i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-i -h v ./Tests/Test_file_3
+-i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_3
+-i -s v ./Tests/Test_file_1
+-i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-i -s v ./Tests/Test_file_2
+-i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-i -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-i -s v ./Tests/Test_file_3
+-i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-i -o v ./Tests/Test_file_1
+-i -o v ./Tests/Test_file_2
+-i -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-i -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-i -o v ./Tests/Test_file_3
+-h -s v ./Tests/Test_file_1
+-h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-h -s v ./Tests/Test_file_2
+-h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-h -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-h -s v ./Tests/Test_file_3
+-h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-h -o v ./Tests/Test_file_1
+-h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-h -o v ./Tests/Test_file_2
+-h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-h -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-h -o v ./Tests/Test_file_3
+-h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-s -o v ./Tests/Test_file_1
+-s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1
+-s -o v ./Tests/Test_file_2
+-s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2
+-s -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2
+-s -o v ./Tests/Test_file_3
+-s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_3
+-n -v v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -v v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -v v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_2
+-n -c v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3 ./Tests/Test_file_3
+-n -c v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3 ./Tests/Test_file_3
+-n -l v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_2
+-n -i v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3 ./Tests/Test_file_3
+-n -i v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_2
+-n -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3 ./Tests/Test_file_3
+-n -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -c v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -c v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -c v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -l v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -l v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -l v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -i v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -i v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -i v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_2
+-c -i v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -i v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3 ./Tests/Test_file_3
+-c -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_2
+-c -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3 ./Tests/Test_file_3
+-c -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3 ./Tests/Test_file_3
+-c -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_2
+-c -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3 ./Tests/Test_file_3
+-c -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3 ./Tests/Test_file_3
+-l -i v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -i v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -i v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_2
+-i -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3 ./Tests/Test_file_3
+-i -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-h -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-h -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-h -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-h -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-s -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-s -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-s -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-s -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v -c v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -v -c v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -v -c v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v -i v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -v -i v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -v -i v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -v -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -v -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -v -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -v -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -v -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -v -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -v -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -v -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -l v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c -l -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c -l v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c -l -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c -l v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -l -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -i v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c -i v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c -i v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -i -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -c -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -c -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -i v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l -i v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l -i v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -l -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -l -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -i -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -i -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -i -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -i -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -i -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -i -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -i -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -h -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -h -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -h -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -h -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -s -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-n -s -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-n -s -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -s -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -c -i v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -c -i v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -c -i v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -c -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -c -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -c -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -c -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -c -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -c -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -i -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -i -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -i -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -i -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -i -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -i -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -i -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -i -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -i -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -i -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -i -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -h -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -h -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -h -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -h -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -h -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -h -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -h -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -s -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-v -s -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-v -s -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -s -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -i v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l -i v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l -i v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -l -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -l -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -i -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -i -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -i -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -i -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -i -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -i -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -i -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -h -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -h -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -h -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -h -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -s -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-c -s -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-c -s -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -s -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -h v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -i -h v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -i -h v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -i -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -i -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -i -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -i -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -i -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -h -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -h -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -h -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -h -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -s -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-l -s -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-l -s -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -s -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h -s v ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -h -s v ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -h -s v ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h -s -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -h -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -h -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -s -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-i -s -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-i -s -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -s -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -s -o v ./Tests/Test_file_1 ./Tests/Test_file_2
+-h -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2
+-h -s -o v ./Tests/Test_file_1 ./Tests/Test_file_3
+-h -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_3
+-h -s -o v ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -s -o -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v -c v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v -i v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v -h v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -v -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -l v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -l -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -l -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -i v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -h v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -c -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -i v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -h v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -h v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -i -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -s -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-n -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -c -i v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -c -h v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -c -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -i -h v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -i -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -i -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -i -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -h -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -h -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -s -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-v -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -i v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -i -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -i -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -h v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -l -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -h v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -i -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -s -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-c -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -h v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -h -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -h -f ./Tests/File_of_patterns  -e vv ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -i -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -h -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -s -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-l -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h -s v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h -s -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -h -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-i -s -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -s -o v ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
+-h -s -o -f ./Tests/File_of_patterns  ./Tests/Test_file_1 ./Tests/Test_file_2 ./Tests/Test_file_3
